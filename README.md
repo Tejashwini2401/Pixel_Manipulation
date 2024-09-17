@@ -21,7 +21,7 @@ Install the required libraries using pip:
 
 *2 Download Python file:*
 
-
+pixel_manipulation.py
 
 *3 Prepare Images:*
 
