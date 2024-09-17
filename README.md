@@ -19,11 +19,15 @@ Install the required libraries using pip:
 
     pip install opencv-python numpy
 
-*2 Prepare Images:*
+*2 Download Python file:*
+
+
+
+*3 Prepare Images:*
 
 Place your images in a directory.
 
-*3 Run the Script:*
+*4 Run the Script:*
 
 Modify the image_path variable in the script to point to your desired image.
 
