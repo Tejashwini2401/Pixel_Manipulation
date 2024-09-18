@@ -1,5 +1,4 @@
-# SCT_CS_2
-
+# Pixel_Manipulation
 **Introduction**
 
 This Python script offers a basic image encryption tool that employs pixel manipulation techniques. 
